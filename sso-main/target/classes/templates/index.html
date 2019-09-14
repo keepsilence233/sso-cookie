@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>main</title>
+</head>
+<body>
+    <h1>主页面</h1>
+    <span>
+         <a th:if="${session.LoginUser == null}" href="http://login.codeshop.com:9000/view/login?target=http://www.codeshop.com:9010/view/main">登陆</a>
+         <a th:unless="${session.LoginUser == null}" href="#">退出</a>
+    </span>
+    <p th:unless="${session.LoginUser == null}">
+        <span style="color: rebeccapurple;" th:text="${session.LoginUser.username}"></span>已登陆
+    </p>
+</body>
+</html>

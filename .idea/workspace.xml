@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9a59a18-eb38-4342-beaf-0ecb68f59aa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java Reflect/Java Reflect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Mail/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Mail/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/Resources/class.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/Resources/class.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/interfaces/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/interfaces/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/interfaces/MyInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/interfaces/MyInterface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/PropertiesUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/PropertiesUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/test/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/util/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Reflect/src/cn/wengzi/reflect/util/PropertiesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Redis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Redis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringEncode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringEncode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringEncode/src/Encode/sha256Encode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringEncode/src/Encode/sha256Encode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-login/src/main/java/com/sso/login/LoginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-login/src/main/java/com/sso/login/LoginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-login/src/main/java/com/sso/login/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-login/src/main/java/com/sso/login/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-login/target/classes/META-INF/ssologin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-login/target/classes/com/sso/login/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-login/target/classes/com/sso/login/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-main/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sso-main/target/classes/templates/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ssousecookie" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QozNGzfyNSIpIPe1alhoVjz3Ts" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561024013065" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15451056" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="priv.tl.sso" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea-works-pace\sso-use-cookie\sso-login\src\main\Resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sso.main.MainApplication" />
+      <module name="sso-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sso.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sso-login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sso.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sso.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VipApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sso-vip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sso.vip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sso.vip.VipApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Spring Boot.VipApplication" />
+        <item itemvalue="Spring Boot.LoginApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.19945355" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8fdf575b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8fdf575b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7264e87" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9a59a18-eb38-4342-beaf-0ecb68f59aa3" name="Default Changelist" comment="" />
+      <created>1560677301938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560677301938</updated>
+      <workItem from="1560677303510" duration="2242000" />
+      <workItem from="1560688373781" duration="1944000" />
+      <workItem from="1560730745740" duration="11576000" />
+      <workItem from="1560817442490" duration="591000" />
+      <workItem from="1560818067435" duration="13264000" />
+      <workItem from="1560904344125" duration="2732000" />
+      <workItem from="1560934222045" duration="425000" />
+      <workItem from="1561015986319" duration="492000" />
+      <workItem from="1561019199564" duration="4417000" />
+      <workItem from="1561024150633" duration="365000" />
+      <workItem from="1567040920020" duration="134000" />
+      <workItem from="1568451695991" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="configurations" />
+        <watch expression="taken" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssologin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sso-use-cookie</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

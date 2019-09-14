@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sso-login" />
+        <module name="ssovip" />
+        <module name="ssomain" />
+        <module name="sso-vip" />
+        <module name="sso-cart" />
+        <module name="ssologin" />
+        <module name="ssocart" />
+        <module name="sso-main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sso-cart" options="-parameters" />
+      <module name="sso-login" options="-parameters" />
+      <module name="sso-main" options="-parameters" />
+      <module name="sso-vip" options="-parameters" />
+      <module name="ssocart" options="-parameters" />
+      <module name="ssologin" options="-parameters" />
+      <module name="ssomain" options="-parameters" />
+      <module name="ssovip" options="-parameters" />
+    </option>
+  </component>
+</project>
