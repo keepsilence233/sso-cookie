@@ -16,7 +16,7 @@ Cookie是在客户端存储数据的工具。
 
 在windows的host文件中添加以下内容
 
-#sso
+#sso  
 127.0.0.1	www.codeshop.com  
 127.0.0.1	login.codeshop.com  
 127.0.0.1	vip.codeshop.com  
